@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Data stores (large binaries — NEVER commit)
+data/*.faiss
+data/*.pkl
+data/*.bin
+data/*.safetensors
+data/*.gguf
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Kaggle
+/kaggle/
