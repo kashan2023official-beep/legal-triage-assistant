@@ -864,6 +864,6 @@ Additional considerations:
 
 ## Footer
 
-**Version:** 1.0 · **Last updated:** 2026 · **Maintainer:** `<your handle>` · **License:** MIT
+**Version:** 1.0 · **Last updated:** 2026 · **Maintainer:** `(https://github.com/kashan2023official-beep)` · **License:** MIT
 
 > *The law is complex. This tool is a starting point, not an endpoint. Always consult a licensed attorney before acting on anything you read here.*
